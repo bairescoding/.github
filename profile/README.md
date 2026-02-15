@@ -1,7 +1,7 @@
 # BairesCoding
 
 <div align="center">
-  <img src="img/bairescoding.svg" alt="BairesCoding Logo" width="200">
+  <img src="../img/bairescoding.svg" alt="BairesCoding Logo" width="200">
   
   ## Transformamos ideas en soluciones digitales extraordinarias
   
