@@ -19,9 +19,7 @@ En **BairesCoding**, creemos que el código es más que solo tecnología: es el 
 ## 💡 Lo Que Nos Hace Diferentes
 
 - **🎯 Enfoque en Resultados**: No solo escribimos código, resolvemos problemas de negocio reales
-- **⚡ Agilidad Real**: Metodologías ágiles adaptadas a tus necesidades específicas
 - **🤝 Partnership Estratégico**: Nos convertimos en aliados de tu crecimiento, no solo proveedores
-- **🌍 Alcance Global**: Pensamiento global con ejecución local
 - **🔒 Calidad Garantizada**: Cada línea de código cumple con los más altos estándares
 
 ## 🛠️ Nuestros Servicios
@@ -33,10 +31,9 @@ En **BairesCoding**, creemos que el código es más que solo tecnología: es el 
 - APIs y microservicios
 - Migración y modernización de legacy systems
 
-### Soluciones Móviles
+### Soluciones Robustas
 
-- Apps nativas para iOS y Android
-- Aplicaciones multiplataforma (React Native, Flutter)
+- Aplicaciones multiplataforma
 - Soluciones híbridas optimizadas
 
 ### Arquitectura & Cloud
@@ -48,7 +45,6 @@ En **BairesCoding**, creemos que el código es más que solo tecnología: es el 
 
 ### Consultoría Tecnológica
 
-- Auditoría de sistemas existentes
 - Roadmap de transformación digital
 - Selección de tecnologías óptimas
 - Capacitación de equipos
@@ -62,7 +58,7 @@ En **BairesCoding**, creemos que el código es más que solo tecnología: es el 
 
 ## 📊 Por Qué Elegirnos
 
-| Característica | Beneficio Para Ti |
+| Característica | Beneficio |
 | :---: | :--- |
 | ⏱️ **Time-to-Market** | Lanzamos MVPs en semanas, no meses |
 | 💰 **Costo-Eficiencia** | Equipo senior a costos competitivos LATAM |
@@ -83,11 +79,9 @@ Tu próxima gran idea no tiene que quedarse en el papel. En BairesCoding combina
 
 ## 💬 Hablemos de Tu Proyecto
 
-¿Tienes una idea? ¿Un desafío tecnológico? ¿Necesitas escalar tu equipo?
+¿Tienes una idea? ¿Un desafío tecnológico? ¿Necesitas escalar?
 
-**[📧 Escríbenos a bairescoding@outlook.com](mailto:bairescoding@outlook.com)**
-
-O agenda una consulta gratuita de 30 minutos para explorar cómo podemos ayudarte.
+Podés agendar una consulta gratuita para explorar cómo podemos ayudarte.
 
 [![Contactar](https://img.shields.io/badge/🚀_INICIAR_PROYECTO-56C34F?style=for-the-badge&labelColor=031203)](mailto:bairescoding@outlook.com)
 
@@ -95,4 +89,4 @@ O agenda una consulta gratuita de 30 minutos para explorar cómo podemos ayudart
 
 *Desde Buenos Aires para el mundo* 🌍
 
-[Website](https://bairescoding.com) • [LinkedIn](https://linkedin.com/company/bairescoding) • [Email](mailto:bairescoding@outlook.com)
+[Website](https://bairescoding.github.io) • [LinkedIn](https://linkedin.com/company/bairescoding) • [Email](mailto:bairescoding@outlook.com)
