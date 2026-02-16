@@ -1,11 +1,11 @@
-# BairesCoding
+# BairesCoding_
   
 ## Transformamos ideas en soluciones digitales extraordinarias
   
-[![Website](https://img.shields.io/badge/🌐_Website-bairescoding.github.io-56C34F?style=for-the-badge)](https://BairesCoding.github.io)
+[![Website](https://img.shields.io/badge/🌐_Website-bairescoding.github.io-ACDDDE?style=for-the-badge)](https://BairesCoding.github.io)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-BairesCoding-0077B5?style=for-the-badge)](https://linkedin.com/company/bairescoding)
 [![Instagram](https://img.shields.io/badge/🔗_Instagram-BairesCoding-E1306C?style=for-the-badge)](https://instagram.com/bairescoding)
-[![Email](https://img.shields.io/badge/📧_Contacto-bairescoding@outlook.com-56C34F?style=for-the-badge)](mailto:bairescoding@outlook.com)
+[![Email](https://img.shields.io/badge/📧_Email-bairescoding@outlook.com-EFB810?style=for-the-badge)](mailto:bairescoding@outlook.com)
 
 ## 🚀 Sobre Nosotros
 
