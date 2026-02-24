@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre nuestra Organización
 
-En **BairesCoding**, nos dedicamos a aportar valor a la comunidad tecnológica mediante el desarrollo de software libre. Nuestro objetivo es crear utilidades, herramientas y funcionalidades prácticas que estén disponibles para el uso general, simplificando procesos y fomentando el desarrollo colaborativo.
+En **BairesCoding**, nos dedicamos a aportar valor a la comunidad mediante el desarrollo de software libre. Nuestro objetivo es crear utilidades, herramientas y funcionalidades prácticas que estén disponibles para el uso general, simplificando procesos y fomentando el desarrollo colaborativo.
 
 Creemos en la democratización del código y en construir soluciones que puedan ser utilizadas, auditadas y mejoradas por desarrolladores de todo el mundo.
 
@@ -23,7 +23,7 @@ Nuestros repositorios públicos están abiertos a la comunidad. Te invitamos a:
 
 *(Próximamente publicaremos nuestros repositorios destacados aquí)*
 
-## 💼 Soporte Premium y Desarrollo a Medida
+## 💼 Soporte Dedicado y Desarrollo a Medida
 
 Si bien nuestra misión principal es proporcionar herramientas de código abierto, entendemos que los entornos empresariales requieren soluciones específicas. Por eso, ofrecemos servicios comerciales enfocados en:
 
@@ -39,6 +39,6 @@ Si bien nuestra misión principal es proporcionar herramientas de código abiert
 [![Contactar](https://img.shields.io/badge/🚀_INICIAR_PROYECTO-56C34F?style=for-the-badge&labelColor=031203)](mailto:bairescoding@outlook.com)
 
 ---
-*Desde Buenos Aires para el mundo* 🌍
+__BairesCoding__ desde Buenos Aires para el mundo 🌍
 
 [Website](https://bairescoding.github.io) • [LinkedIn](https://linkedin.com/company/bairescoding) • [Instagram](https://instagram.com/bairescoding)
