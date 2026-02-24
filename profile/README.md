@@ -21,7 +21,7 @@ Nuestros repositorios públicos están abiertos a la comunidad. Te invitamos a:
 * **Reportar Issues:** Si encuentras un error o tienes una sugerencia de mejora, abre un issue en el repositorio correspondiente.
 * **Proponer Pull Requests:** Aceptamos contribuciones que aporten valor a los proyectos existentes.
 
-*(Próximamente publicaremos nuestros repositorios destacados aquí)*
+*Para más información, por favor revisa la [Guía de Contribución a BairesCoding](./CONTRIBUTING.md)*
 
 ## 💼 Soporte Dedicado y Desarrollo a Medida
 
