@@ -1,5 +1,8 @@
-# Mapa del sitio
+# Sitio de Perfil de BairesCoding
 
-* [Raíz del sitio](https://bairescoding.github.io/.github/)
-  * [Perfil de BairesCoding](./profile/)
-  * [Guía de Contribución a BairesCoding](./contributing/)
+Este es el repositorio de la organización de BairesCoding dedicado al mantenimiento del perfil en GitHub.
+
+## Mapa del sitio
+
+* [Perfil de BairesCoding](./profile/)
+* [Guía de Contribución a BairesCoding](./contributing/)
